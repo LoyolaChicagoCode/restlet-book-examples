@@ -2,7 +2,7 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.luc.cs.laufer.cs433</groupId>
-	<artifactId>helloworld-restlet</artifactId>
+	<artifactId>restlet-book-examples</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<description></description>
 	<build>
